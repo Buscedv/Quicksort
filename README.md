@@ -1,2 +1,2 @@
 # Quicksort
-A basic quicksort implementation written in Python.
+A demonstration/simulation on how quicksort works. Written in Python.
